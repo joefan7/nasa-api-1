@@ -1,0 +1,28 @@
+{
+  "name": "nasa-api",
+  "version": "1.0.0",
+  "description": "nasa-api assignment part 1",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joefan7/nasa-api-1.git"
+  },
+  "keywords": [
+    "Nasa",
+    "API"
+  ],
+  "author": "Joseph Fan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joefan7/nasa-api-1/issues"
+  },
+  "homepage": "https://github.com/joefan7/nasa-api-1#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4"
+  }
+}
